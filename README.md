@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Igor Barreto!
 
-<!--
-**Igorbarr3to/Igorbarr3to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO**.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor front-end. Tenho um grande interesse em criar soluções que não apenas funcionem bem, mas que também sejam intuitivas e agradáveis de usar. Acredito que a tecnologia tem o poder de transformar e facilitar a vida das pessoas, e quero fazer parte dessa transformação.
+
+---
+
+## Habilidades
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+* ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+* ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+## Contatos:
+
+* **LinkedIn:** https://www.linkedin.com/in/igor-barreto11/
+* **Email:** igorbarreto1110@gmail.com
