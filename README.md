@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=26&pause=1000&color=fff&center=true&width=1000&lines=%3Cigorbarr3to%2F%3E;Front-End+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarr3to&layout=compact&theme=radical" height="180"/>
-</p>
-
 Estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO**. <br><br>
 Student of **Systems Analysis and Development** at the **Federal Institute of Education, Science and Technology of Rondônia - IFRO**.
 
