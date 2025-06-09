@@ -11,7 +11,7 @@ I am currently focused on improving my skills as a front-end developer. I am pas
 ## 🌐 Portfólio / Portfolio
 
 <p align="center">
-  <a href="https://igorbarr3to-portifolio.vercel.app" target="_blank">
+  <a href="https://igorbarr3to-portfolio.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-%231F1F1F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 </p>
